@@ -1,4 +1,4 @@
-#include "main.h"
+#include "loveth.h"
 
 /**
 * is_cdir - checks if : is in current dir.

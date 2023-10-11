@@ -1,4 +1,4 @@
-#include "main.h"
+#include "loveth.h"
 
 /**
 * check_env - checks if typed var. is an environment variable

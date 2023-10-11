@@ -1,4 +1,4 @@
-#include "main.h"
+#include "loveth.h"
 
 /**
 * add_sep_node_end - adds separator found @ end

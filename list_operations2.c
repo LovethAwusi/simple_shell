@@ -1,4 +1,4 @@
-#include "main.h"
+#include "loveth.h"
 
 /**
 * add_rvar_node - adds a var. at the end

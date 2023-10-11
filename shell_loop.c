@@ -1,4 +1,4 @@
-#include "main.h"
+#include "loveth.h"
 
 /**
 * without_comment - deltes d comments from input

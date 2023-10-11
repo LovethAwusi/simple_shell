@@ -1,4 +1,4 @@
-#include "main.h"
+#include "loveth.h"
 
 /**
 * _memcpy - copies inf. b/t void pointers
@@ -20,9 +20,9 @@ char_newptr[i] = char_ptr[i];
 
 /**
 * _realloc - reallocates memo block
-* @ptr: pointer to previously allocated memory block
+* @ptr: pointer to previously allocated memo block
 * @old_size: size of bytes of the  allocated space of pointer
-* @new_size: new size of the bytes of the new memory block
+* @new_size: new size of the bytes of the new memo block
 *
 * Return: ptr.
 * if new_size == old_size, returns ptr without changes.
